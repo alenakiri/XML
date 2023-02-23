@@ -1,0 +1,17 @@
+<QAskills>
+	<applications>
+		<application1>Postman</application1>
+	        <application2>Charles</application2>
+	        <application3>Jmeter</application3>
+	        <application4>Fiddler</application4>
+	</applications>
+	<Basic software testing terminology>
+		<theme1>SDLC and STLC</theme1>
+		<theme2>client-server architecture</theme2>
+		<theme3>API testing</theme3>
+		<theme4>Sniffing http web traffic</theme4>
+		<theme5>DevTools</theme5>
+
+	</Basic software testing terminology>
+
+
