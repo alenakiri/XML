@@ -1,1 +1,18 @@
 
+<bug_report>
+  <Id>0000111</Id>
+  <Summary>The sign in button is non-clickable on main page</Summary>
+  <Description>The button Sign In does not work on main page</Description>
+  <ER>Opens Sign In page when click on the button Sign In</ER>
+  <AR>The Button Sign In does not work when user click on it</AR>
+  <STR>Open main page, click Sign In button</STR>
+  <Reproducibility>Always</Reproducibility>
+  <Severity>Critical</Severity>
+  <Priority>Very high</Priority>
+  <Workarounds>Yes</Workarounds>
+  <Status>new</Status>
+  <Author>Alena Kirylenka</Author>
+  <Assigned>Ivan</Assigned>
+  <Environment>Windows 10 Pro</Environment>
+  <Attachments>123.txt</Attachments>
+</bug_report>
